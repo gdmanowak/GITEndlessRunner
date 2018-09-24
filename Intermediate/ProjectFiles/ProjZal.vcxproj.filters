@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjZal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0D00AEA9-C8F7-4672-A4F9-C86C59A3B8C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjZal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjZalEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F635EFFF-8673-4A52-860D-CB9FED2371FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjZal">
+      <UniqueIdentifier>{7F2565E2-B142-4C67-BF14-3F1D0258C364}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjZal\ProjZal.Build.cs">
+      <Filter>Source\ProjZal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjZal\ProjZal.cpp">
+      <Filter>Source\ProjZal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjZal\ProjZal.h">
+      <Filter>Source\ProjZal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjZal\ProjZalCharacter.cpp">
+      <Filter>Source\ProjZal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjZal\ProjZalCharacter.h">
+      <Filter>Source\ProjZal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjZal\ProjZalGameMode.cpp">
+      <Filter>Source\ProjZal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjZal\ProjZalGameMode.h">
+      <Filter>Source\ProjZal</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\programy\unrealEngine\UE4_19\UE_4.19\Engine\Source\Runtime\Engine\Classes\GameFramework\SpringArmComponent.h" />
+    <ClInclude Include="..\..\Source\ProjZal\Floor.h">
+      <Filter>Source\ProjZal</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ProjZal\Floor.cpp">
+      <Filter>Source\ProjZal</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

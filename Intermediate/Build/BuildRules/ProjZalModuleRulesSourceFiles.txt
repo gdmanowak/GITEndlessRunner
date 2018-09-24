@@ -1,0 +1,3 @@
+I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Source\ProjZal\ProjZal.Build.cs
+I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Source\ProjZal.Target.cs
+I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Source\ProjZalEditor.Target.cs

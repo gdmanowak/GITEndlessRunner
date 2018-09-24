@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjZal-5462.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\programy\unrealEngine\UE4_19\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\Floor.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\ProjZal.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\ProjZalCharacter.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\ProjZalGameMode.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\Floor.gen.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\ProjZal.init.gen.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\ProjZalCharacter.gen.cpp.obj"
+"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\ProjZalGameMode.gen.cpp.obj"
+"E:\programy\unrealEngine\UE4_19\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ProjZal\PCLaunch.rc.res"
+"E:\programy\unrealEngine\UE4_19\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjZal-5462.lib"

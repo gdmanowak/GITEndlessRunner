@@ -1,0 +1,8 @@
+﻿  Performing 3 actions (9 in parallel)
+  ProjZalCharacter.cpp
+  [2/3] Link UE4Editor-ProjZal.dll
+  [3/3] Link UE4Editor-ProjZal.lib
+     Creating library I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjZal.lib and object I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjZal.exp
+     Creating library I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjZal.suppressed.lib and object I:\13_Nauka-Poradniki\Unreal engine\ProjZal\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjZal.suppressed.exp
+  Deploying ProjZalEditor Win64 Development...
+  Total build time: 3,08 seconds (Local executor: 1,62 seconds)
